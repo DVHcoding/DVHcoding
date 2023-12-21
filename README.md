@@ -5,10 +5,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DVHcoding&theme=gruvbox&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DVHcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
   <img align="right" height="160" src="https://github.com/DVHcoding/DVHcoding/assets/117575707/3af156fc-ac46-45af-8644-065573670446"  />
 </div>
 
-#
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -74,7 +75,7 @@
 ###
 
 <p align="left">I'm  from Vietnam<br><br>- 🔭 I work as a freelancer.<br>- 📚 Currently, I'm learning web development.<br>- ⚡ In my free time, I enjoy reading books and exploring more information about technology.</p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVHcoding&layout=compact" height="150" />
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -86,5 +87,6 @@
 </div>
 
 ###
+
 
 
