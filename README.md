@@ -66,8 +66,6 @@
   </a>
 </div>
 
-###
-
 ### 
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -76,17 +74,5 @@
 
 <p align="left">I'm  from Vietnam<br><br>- 🔭 I work as a freelancer.<br>- 📚 Currently, I'm learning web development.<br>- ⚡ In my free time, I enjoy reading books and exploring more information about technology.</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVHcoding&layout=compact" height="150" />
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DVHcoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 
 
