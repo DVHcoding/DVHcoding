@@ -2,15 +2,15 @@
 
 ###
 
-<div style="display:flex; align-items:center; gap:6px; flex-wrap: wrap;">
+<div style="display:flex; align-items:center; gap:6px; flex-wrap: wrap; justify-content:start;">
   <img src="https://github-readme-stats.vercel.app/api?username=DVHcoding&theme=gruvbox&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DVHcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-  <img align="right" height="160" src="https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads/7JnkSdFenI0hTIfavokiO.webp"  />
+  <img height="130" src="https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads/7JnkSdFenI0hTIfavokiO.webp"  />
 </div>
 
 ###
-<div align="left">
+<div style="display: block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
