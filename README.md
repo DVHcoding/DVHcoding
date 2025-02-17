@@ -4,7 +4,7 @@
 
 <div style="display:flex; align-items:center; gap:6px; flex-wrap: wrap; justify-content:start;">
   <img src="https://github-readme-stats.vercel.app/api?username=DVHcoding&theme=gruvbox&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DVHcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DVHcoding&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
   <img height="130" src="https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads/7JnkSdFenI0hTIfavokiO.webp"  />
 </div>
@@ -74,8 +74,15 @@
 
 <p align="left">I'm  from Vietnam<br><br>- 🔭 I work as a freelancer.<br>- 📚 Currently, I'm learning web development.<br>- ⚡ In my free time, I enjoy reading books and exploring more information about technology.</p>
 
+<div>
+  <div>
+      <h4>🏆 Github Profile Trophy</h4>
+      <img src="https://github-profile-trophy.vercel.app/?username=DVHcoding&theme=dark&column=7"/>
+  </div>
+</div>
+
+
 <div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVHcoding&layout=compact" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DVHcoding&custom_title=DVHcoding%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" height="160" style="border-radius: 5px; margin-top: 23px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DVHcoding&custom_title=DVHcoding%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" style="border-radius: 5px; margin-top: 3px;"/>
 </div>
 
