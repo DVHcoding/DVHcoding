@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DVHcoding&theme=gruvbox&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DVHcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-  <img height="140" src="https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads/7JnkSdFenI0hTIfavokiO.webp"  />
+  <img height="130" src="https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads/7JnkSdFenI0hTIfavokiO.webp"  />
 </div>
 
 ###
