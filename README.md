@@ -74,8 +74,8 @@
 
 <p align="left">I'm  from Vietnam<br><br>- 🔭 I work as a freelancer.<br>- 📚 Currently, I'm learning web development.<br>- ⚡ In my free time, I enjoy reading books and exploring more information about technology.</p>
 
-<div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 16px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVHcoding&layout=compact" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DVHcoding&custom_title=DVHcoding%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" height="154" style="border-radius: 5px; margin-top: 3px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DVHcoding&custom_title=DVHcoding%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" height="190" style="border-radius: 5px; margin-top: 3px;"/>
 </div>
 
