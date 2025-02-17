@@ -2,11 +2,11 @@
 
 ###
 
-<div align="center">
+<div style="display:flex; align-items:center; gap:6px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=DVHcoding&theme=gruvbox&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DVHcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-  <img align="right" height="160" src="https://github.com/DVHcoding/DVHcoding/assets/117575707/3af156fc-ac46-45af-8644-065573670446"  />
+  <img align="right" height="160" src="https://learnlangs24h.s3.ap-southeast-2.amazonaws.com/uploads/7JnkSdFenI0hTIfavokiO.webp"  />
 </div>
 
 ###
@@ -58,7 +58,7 @@
   <a href="https://www.youtube.com/@FluentezEnglish" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhung-do-a2b688293%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR3EVYNZ3VmPPj0T1WgSBbl_kSI5dSoxH8rywYaqrpfVey7Y_dyWJBCBq3s&h=AT0Wy2p1Wk90WL71FzPYvdt2-RG6c01PkFAnNzyKr_AmvZJ6AE3bx42n72osBsuazBRPRdESNd4dHu-GMkgOMHlOlZplZidAbIDgmiXggU3zXA3rS3XDF0vCPP5rr5GLdTxJZM4w0j4iCIr-9fa15w" target="_blank">
+  <a href="https://www.linkedin.com/in/đỗ-hùng-a2b688293/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100044022424100" target="_blank">
@@ -73,6 +73,9 @@
 ###
 
 <p align="left">I'm  from Vietnam<br><br>- 🔭 I work as a freelancer.<br>- 📚 Currently, I'm learning web development.<br>- ⚡ In my free time, I enjoy reading books and exploring more information about technology.</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVHcoding&layout=compact" height="150" />
 
+<div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVHcoding&layout=compact" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DVHcoding&custom_title=DVHcoding%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B9346D&line=B9346D&point=B9346D&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" height="154" style="border-radius: 5px; margin-top: 3px;"/>
+</div>
 
